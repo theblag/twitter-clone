@@ -24,6 +24,6 @@ Every effort has been made to make this project as responsive as possible. It ad
 - This project is intended solely for educational purposes and not for commercial use.
 
 ## Screenshots
-![Screenshot of Twitter Clone](preview.png "Twitter Clone Preview")
+![Screenshot of Twitter Clone](Twitter-Clone/preview.png "Twitter Clone Preview")
 
 Made with ❤️ for learning and development.
